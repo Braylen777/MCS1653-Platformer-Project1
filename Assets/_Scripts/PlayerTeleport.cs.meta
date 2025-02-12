@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 795b2c49eb2c71f41830f03e243de3ed
+guid: d9bf92a5f10ab5a4ea286ec9027fe01b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - TeleportTarget: {fileID: 8713593885521052296, guid: f227bbe38e3035348af871b67e97753d, type: 3}
+  - PlayerPrefab: {fileID: 534653102818517950, guid: f227bbe38e3035348af871b67e97753d, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

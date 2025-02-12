@@ -62,14 +62,18 @@ public class RainBehavior : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
+
         if ((whatDestroysRain.value & (1 << collision.gameObject.layer)) > 0) 
         {
             //sound
             //particles, etc
             Destroy(gameObject);
-            TeleportTarget.transform.position = collision;
+            TeleportTarget.transform.position = transform.position;
+           
         }
     }
+
 
 
 
@@ -90,5 +94,10 @@ public class RainBehavior : MonoBehaviour
             rb.gravityScale = physicsRainGravity;
         }
     }
+
+    
+
+
+
 
 }

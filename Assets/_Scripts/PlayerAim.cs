@@ -36,6 +36,9 @@ public class PlayerAim : MonoBehaviour
         {
             rainInst = Instantiate(rain, rainSpawnPoint.position, portal.transform.rotation);
         }
+            
+    
+    
     }
 
 

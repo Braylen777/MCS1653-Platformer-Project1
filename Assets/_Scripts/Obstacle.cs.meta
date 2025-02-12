@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: 795b2c49eb2c71f41830f03e243de3ed
+guid: e86dd7c5d1981634ab7c4774cb7cfeab
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - TeleportTarget: {fileID: 8713593885521052296, guid: f227bbe38e3035348af871b67e97753d, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 4332259864028285468}
   - component: {fileID: 3755717093289736199}
   - component: {fileID: 8108728693212041134}
-  - component: {fileID: 8762301768163775847}
   - component: {fileID: -4031453368886978000}
+  - component: {fileID: 8762301768163775847}
   m_Layer: 6
   m_Name: Rain
   m_TagString: Untagged
@@ -122,27 +122,6 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.50000006
---- !u!114 &8762301768163775847
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7879310699512902627}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 795b2c49eb2c71f41830f03e243de3ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  destroyTime: 3
-  whatDestroysRain:
-    serializedVersion: 2
-    m_Bits: 8
-  TeleportTarget: {fileID: 8713593885521052296, guid: f227bbe38e3035348af871b67e97753d, type: 3}
-  normalRainSpeed: 15
-  physicsRainSpeed: 17
-  physicsRainGravity: 3
-  rainType: 1
 --- !u!50 &-4031453368886978000
 Rigidbody2D:
   serializedVersion: 4
@@ -170,3 +149,24 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &8762301768163775847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7879310699512902627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 795b2c49eb2c71f41830f03e243de3ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destroyTime: 500
+  whatDestroysRain:
+    serializedVersion: 2
+    m_Bits: 8
+  TeleportTarget: {fileID: 8713593885521052296, guid: f227bbe38e3035348af871b67e97753d, type: 3}
+  normalRainSpeed: 15
+  physicsRainSpeed: 17
+  physicsRainGravity: 3
+  rainType: 1
