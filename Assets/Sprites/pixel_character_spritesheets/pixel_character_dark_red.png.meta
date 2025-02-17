@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,1099 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pixel_character_dark_red_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b15f655fef9f44bd32e4b63864d8d
+      internalID: -284247210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca80599365b5e445a2bcbad48b049c1
+      internalID: -1880091726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c47ff83601b7b4ba3707952233fafe
+      internalID: 1535645832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9dd34a6c29a8540b433d32df509090
+      internalID: -554709317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448b9c32573a8804cb80065b4973a9dd
+      internalID: -1456204439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18275ffed1454d046ab35b82c276c498
+      internalID: -1699886894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f77e93cb2a0c42b41d244428bbe51
+      internalID: 2028177480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094c7f6e01ee184a9493559861a91ff
+      internalID: 1019190955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a677c34d5fde04dac244759a6c2ac4
+      internalID: 1096884437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07af0f3e18f6244bb1d59b52c4543e5
+      internalID: 762823768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 249
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2987a2158e1562459736ff05a99c5cf
+      internalID: 1258934874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6f0ee524a9f741bd8add906e8c279
+      internalID: -893069562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74cb18469bbbe547845f5fb13819364
+      internalID: -2135944442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381d41a61ca37c4b89367f6fb91824d
+      internalID: 1510599040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 249
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e89275921a64488d536976075f5be
+      internalID: 168957763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed87efaae1e5e4dacf48d0c6d54440
+      internalID: 569238558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560a4b9d6b10d944291e75eb5516e50a
+      internalID: 1839624240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 249
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959395882733b1d4089a7c1f97bf8f06
+      internalID: 900956534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684226ce8c3d8284f8fdde5c0945cdaa
+      internalID: 1398083037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa297d8a61be9bf4d8631b90b22f0899
+      internalID: -451614233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3594fe05ea89e14baaf791408e859c6
+      internalID: -532665472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f11ab3de191cc6489ef6b2ac9896516
+      internalID: 1002352867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 201
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e8b0fbc470154d89e752d473a638a
+      internalID: -1582767672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7eef0b68f938b4d9e862d11175309a
+      internalID: 1077901428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d5ff15e6a298b4b9036a1305ef9f3a
+      internalID: -2056785091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998d60faf98da04f9ed6f6bff5c3e14
+      internalID: 1036329328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28952a4a4a4a80a4ab2e089184f7a23a
+      internalID: -1567035740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243b2079b7262140bf46beb254e6d83
+      internalID: 1236887600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706d71696649b44ca198849e3eaee53
+      internalID: 1228031576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fc51555d6ab714eb81faeec0f30c40
+      internalID: -10503340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d06d39e35d2942bcbaaff92a2555e
+      internalID: -753926582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9fcaf5ef7c9845b2a2b55b63800ba
+      internalID: 43895132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 105
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca72097e56a9cf408060fd796c54c65
+      internalID: 944724537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 105
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41857e7359a746448a5049022c89eca6
+      internalID: -1210734157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5520384cdb25554dbc0fe91017346ff
+      internalID: 96303222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe8434ef566eb4aa5a54a1ea06ac74
+      internalID: -837082088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0dbb81325366c4c8b0eec7a83473ce
+      internalID: -267765151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 56
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d1425810a818049a0cea3ff3cb5226
+      internalID: 544738741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a03aa0e7b93b5449aec2d8d20a5f41
+      internalID: -1778856684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1817bf3864b0a429bf10c91fdee6d8
+      internalID: 1269024814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e807c9894750c34f8f4cc040231f9e6
+      internalID: 473111995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79752d82ff65c34c9645d59ab49d235
+      internalID: -1384093822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 56
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2936a1aad87c4d9d73cda29668265
+      internalID: -246933592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3098381542a9240a0cb96ff889e37f
+      internalID: -320767884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466e8e5d0ccc2e4c9bca7ad24254baa
+      internalID: 229424344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421599a85f12174a98080ddefd76f3a
+      internalID: 1707835774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af9f2ea26ca2446a5112eb5c14fa56
+      internalID: 584666963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985a388339cffe4b94723dab51657a7
+      internalID: -1045180167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6c59c06f493542bfaf2bb1a591a39
+      internalID: -229183152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 8
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987bfe446b896314196805a70e9f650c
+      internalID: -592791138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 8
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d5ddddfb8b8d84da30a1873b119a09
+      internalID: 1503514089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_red_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 8
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706d8d00a3c594419f00f43e9f755ea
+      internalID: -1665165417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1211,59 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pixel_character_dark_red_0: -284247210
+      pixel_character_dark_red_1: -1880091726
+      pixel_character_dark_red_10: 1258934874
+      pixel_character_dark_red_11: -893069562
+      pixel_character_dark_red_12: -2135944442
+      pixel_character_dark_red_13: 1510599040
+      pixel_character_dark_red_14: 168957763
+      pixel_character_dark_red_15: 569238558
+      pixel_character_dark_red_16: 1839624240
+      pixel_character_dark_red_17: 900956534
+      pixel_character_dark_red_18: 1398083037
+      pixel_character_dark_red_19: -451614233
+      pixel_character_dark_red_2: 1535645832
+      pixel_character_dark_red_20: -532665472
+      pixel_character_dark_red_21: 1002352867
+      pixel_character_dark_red_22: -1582767672
+      pixel_character_dark_red_23: 1077901428
+      pixel_character_dark_red_24: -2056785091
+      pixel_character_dark_red_25: 1036329328
+      pixel_character_dark_red_26: -1567035740
+      pixel_character_dark_red_27: 1236887600
+      pixel_character_dark_red_28: 1228031576
+      pixel_character_dark_red_29: -10503340
+      pixel_character_dark_red_3: -554709317
+      pixel_character_dark_red_30: -753926582
+      pixel_character_dark_red_31: 43895132
+      pixel_character_dark_red_32: 944724537
+      pixel_character_dark_red_33: -1210734157
+      pixel_character_dark_red_34: 96303222
+      pixel_character_dark_red_35: -837082088
+      pixel_character_dark_red_36: -267765151
+      pixel_character_dark_red_37: 544738741
+      pixel_character_dark_red_38: -1778856684
+      pixel_character_dark_red_39: 1269024814
+      pixel_character_dark_red_4: -1456204439
+      pixel_character_dark_red_40: 473111995
+      pixel_character_dark_red_41: -1384093822
+      pixel_character_dark_red_42: -246933592
+      pixel_character_dark_red_43: -320767884
+      pixel_character_dark_red_44: 229424344
+      pixel_character_dark_red_45: 1707835774
+      pixel_character_dark_red_46: 584666963
+      pixel_character_dark_red_47: -1045180167
+      pixel_character_dark_red_48: -229183152
+      pixel_character_dark_red_49: -592791138
+      pixel_character_dark_red_5: -1699886894
+      pixel_character_dark_red_50: 1503514089
+      pixel_character_dark_red_51: -1665165417
+      pixel_character_dark_red_6: 2028177480
+      pixel_character_dark_red_7: 1019190955
+      pixel_character_dark_red_8: 1096884437
+      pixel_character_dark_red_9: 762823768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

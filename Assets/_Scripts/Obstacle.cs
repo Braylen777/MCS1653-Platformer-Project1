@@ -19,13 +19,13 @@ public class Obstacle : MonoBehaviour
 
 
 
-    void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         //Debug.Log("Death zone triggered!");
-        if (other.gameObject.CompareTag("Player"))
+        if (gameObject.CompareTag("Player"))
         {
             //destroy the player
-            Destroy(other.gameObject);
+            Destroy(gameObject);
             Debug.Log("Enemy Touched!");
         }
     }

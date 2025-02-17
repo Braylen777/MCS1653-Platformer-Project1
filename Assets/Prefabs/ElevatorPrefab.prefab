@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 2637937686786145625}
   m_Layer: 0
   m_Name: ElevatorPrefab
-  m_TagString: Untagged
+  m_TagString: Elevator
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
